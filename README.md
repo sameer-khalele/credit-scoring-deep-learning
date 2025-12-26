@@ -22,3 +22,9 @@ The model is a Sequential Neural Network built with **Keras** and **TensorFlow**
 ##  Future Improvements
 * Integrating **SHAP** (Explainable AI) to provide reasons for specific loan rejections.
 * Expanding the dataset to include macro-economic indicators for better accuracy.
+##  How to Run
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/credit-scoring-deep-learning.git](https://github.com/your-username/credit-scoring-deep-learning.git)
+   pip install tensorflow pandas scikit-learn numpy
+   python train.py
